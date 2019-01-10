@@ -3,4 +3,7 @@ function sayHello() {
 }
 
 
+
+const i = 0;
+console.log(i);
 sayHello();
